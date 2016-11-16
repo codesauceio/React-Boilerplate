@@ -35,10 +35,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/codesauceio/React-Weather.git"
+    "url": "git+https://github.com/codesauceio/React-Boilerplate.git"
   },
   "bugs": {
-    "url": "https://github.com/codesauceio/React-Weather/issues"
+    "url": "https://github.com/codesauceio/React-Boilerplate/issues"
   },
-  "homepage": "https://github.com/codesauceio/React-Weather#readme"
+  "homepage": "https://github.com/codesauceio/React-Boilerplate#readme"
 }
